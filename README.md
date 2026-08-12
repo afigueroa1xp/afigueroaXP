@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @afigueroaXP
+- 👋 Hi, I’m @afigueroa1xp
 - 👀 I’m interested in ...Programming
 - 🌱 I’m currently learning ...Python and Web Development
 - 💞️ I’m looking to collaborate on ...
